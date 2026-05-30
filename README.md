@@ -21,9 +21,9 @@ Right now I am especially interested in automation, industrial computing, system
 - Former FRC Team #9611 coach
 - Experience around SENAI, automation training, and industry-facing technical work
 
-## What I am building toward
+## What I am building next
 
-I am currently reshaping this GitHub profile around a smaller set of better documented public projects. Older repositories are being kept private while I clean up the signal here.
+Most of my past work has been private or tied to automation environments, so I am using this profile to publish smaller, well-documented projects as I build them.
 
 The kind of work I want to show next:
 
