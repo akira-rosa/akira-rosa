@@ -1,10 +1,10 @@
 # Akira Rosa
 
-I work at the intersection of industrial automation and software engineering.
+I work wwith industrial automation and software engineering.
 
-Most of my work sits close to real machines, real production constraints, and the practical systems around them: PLCs, C++/Java tooling, factory data, and integrations with platforms such as SAP. I like software that helps people understand, automate, and trust industrial processes.
+Most of my work sits close to real machines, real production constraints, and the practical systems around them: PLCs, C++/Java tooling, factory data, and integrations with production platforms. I like software that helps people understand, automate, and trust industrial processes.
 
-Right now I am especially interested in automation, industrial computing, systems programming, and advanced computing applied to useful engineering problems.
+Right now I am especially interested in industrial computing, systems programming, and computing applied to useful engineering problems.
 
 ## Focus
 
@@ -12,24 +12,13 @@ Right now I am especially interested in automation, industrial computing, system
 - Tools that connect engineering workflows with business systems
 - C++ and Java for practical, reliable software
 - TwinCAT, TIA Portal, and automation-oriented development
-- Algorithmic problem solving and competitive programming fundamentals
 
 ## Background
 
-- Computer Science undergraduate at UDESC
-- WorldSkills #48 competitor
-- Former FRC Team #9611 coach
-- Experience around SENAI, automation training, and industry-facing technical work
-
-## What I am building next
-
-Most of my past work has been private or tied to automation environments, so I am using this profile to publish smaller, well-documented projects as I build them.
-
-The kind of work I want to show next:
-
-- Industrial data tools that are useful beyond a classroom demo
-- Small C++/Java systems with clear documentation and tests
-- Automation-related utilities that reflect how production environments actually behave
+- Computer Science undergrad;
+- Former WorldSkills #48 competitor for Brazil;
+- Former FRC Team #9611 coach;
+- Experience with technical support, training, and industry-facing technical work
 
 ## Contact
 
