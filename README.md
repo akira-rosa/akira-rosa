@@ -1,6 +1,6 @@
 # Akira Rosa
 
-I work wwith industrial automation and software engineering.
+I work with industrial automation and software engineering.
 
 Most of my work sits close to real machines, real production constraints, and the practical systems around them: PLCs, C++/Java tooling, factory data, and integrations with production platforms. I like software that helps people understand, automate, and trust industrial processes.
 
