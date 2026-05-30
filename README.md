@@ -8,17 +8,17 @@ Right now I am especially interested in industrial computing, systems programmin
 
 ## Focus
 
-- Industrial automation and PLC-based systems
-- Tools that connect engineering workflows with business systems
-- C++ and Java for practical, reliable software
-- TwinCAT, TIA Portal, and automation-oriented development
+- Industrial automation and PLC-based systems;
+- Tools that connect engineering workflows with business systems;
+- C++ and Java for practical, reliable software;
+- TwinCAT, TIA Portal, and automation-oriented development.
 
 ## Background
 
 - Computer Science undergrad;
 - Former WorldSkills #48 competitor for Brazil;
 - Former FRC Team #9611 coach;
-- Experience with technical support, training, and industry-facing technical work
+- Experience with technical support, training, and industry-facing technical work.
 
 ## Contact
 
